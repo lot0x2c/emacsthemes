@@ -1,8 +1,8 @@
 {
   "name": "Base16 Candy Theme",
   "id": "base16-candy",
-  "description": "Light half of candyflip: plum text on a candy pink-white background with pink and teal accents, built on base16-theme with options for accent, contrast, region and mode-line style.",
-  "repoUrl": "https://github.com/lot0x2c/candyflip",
+  "description": "Plum text on a candy pink-white background with pink and teal accents, built on base16-theme with options for accent, contrast, region and mode-line style.",
+  "repoUrl": "https://lot0x2c.github.io/p/candyflip/index.html",
   "rawUrls": [
     "https://github.com/tinted-theming/base16-emacs/raw/refs/heads/main/base16-theme.el",
     "https://raw.githubusercontent.com/lot0x2c/candyflip/main/candyflip.el",
